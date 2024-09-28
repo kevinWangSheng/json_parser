@@ -2,6 +2,10 @@
 name = "json_parser"
 version = "0.1.0"
 edition = "2021"
-
+description = "a Json parser to parse simple structure of json"
+license = "Apache-2.0"
+authors = ["https://github.com/kevinWangSheng/"]
+repository = "https://github.com/kevinWangSheng/json_parser"
+keywords = ["json", "parser", "serde"]
 [dependencies]
 
