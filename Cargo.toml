@@ -1,5 +1,5 @@
 [package]
-name = "json_parser"
+name = "json_parser_kevin_wang"
 version = "0.1.0"
 edition = "2021"
 description = "a Json parser to parse simple structure of json"
