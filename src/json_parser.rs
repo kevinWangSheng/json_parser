@@ -1,4 +1,4 @@
-use json_parse::{JSONString, JSONTYPE};
+pub use json_parse::{JSONString, JSONTYPE};
 
 /// parse json string to map
 /// use case: to test a json parse function
